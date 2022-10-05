@@ -1,5 +1,0 @@
-This is sample file.
-this is avinash file.
-need to create merge conflicts.
-this is pull request.
-file updated.
